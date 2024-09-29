@@ -1,5 +1,5 @@
 let heroi = "Gabriel"
-let xp = 600;
+let xp = 70000;
 let nivel = ""
 
 if (xp < 1000) {
